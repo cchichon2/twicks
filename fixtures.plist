@@ -40,11 +40,11 @@
 		<key>Match</key>
 		<string>Harlequins v Gloucester Rugby</string>
 		<key>Start time</key>
-		<string>TBC</string>
+		<string>4:30pm</string>
 		<key>Attendance</key>
 		<string>80000</string>
 		<key>Date</key>
-		<date>2015-12-27T14:30:00Z</date>
+		<date>2015-12-27T16:30:00Z</date>
 	</dict>
 	<key>Game 7 - 10 - 2</key>
 	<dict>
@@ -88,7 +88,7 @@
 		<key>Attendance</key>
 		<string>30000</string>
 		<key>Date</key>
-		<date>2016-03-16T16:00:00Z</date>
+		<date>2016-03-16T15:00:00Z</date>
 	</dict>
 	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2</key>
 	<dict>
