@@ -2,6 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Game 7 - 7 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>Barbarians v Argentina</string>
+		<key>Start time</key>
+		<string>3:05pm</string>
+		<key>Attendance</key>
+		<string>80000</string>
+		<key>Date</key>
+		<date>2015-12-14T13:00:00Z</date>
+	</dict>
 	<key>Game 7 - 7</key>
 	<dict>
 		<key>Match</key>
