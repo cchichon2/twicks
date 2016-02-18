@@ -132,7 +132,84 @@
 		<key>Attendance</key>
 		<string>30000</string>
 		<key>Date</key>
-		<date>2016-02-14T16:30:00Z</date>
+		<date>2016-02-16T15:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>Army vs Navy Babcock Trophy</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-02-15T18:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>Army vs Navy Babcock Trophy</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-02-19T13:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>Army vs Navy Babcock Trophy</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-02-19T14:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 3</key>
+	<dict>
+		<key>Match</key>
+		<string>Army vs Navy Babcock Trophy</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-02-19T15:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 4</key>
+	<dict>
+		<key>Match</key>
+		<string>Army vs Navy Babcock Trophy</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-02-19T16:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 5</key>
+	<dict>
+		<key>Match</key>
+		<string>Army vs Navy Babcock Trophy</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-02-19T20:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>Army vs Navy Babcock Trophy</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-02-20T16:00:00Z</date>
 	</dict>
 </dict>
 </plist>
