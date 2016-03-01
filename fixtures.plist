@@ -2,72 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Game 7 - 7</key>
-	<dict>
-		<key>Match</key>
-		<string>Barbarians v Argentina</string>
-		<key>Start time</key>
-		<string>3:05pm</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2015-11-21T15:05:00Z</date>
-	</dict>
-	<key>Game 7 - 8</key>
-	<dict>
-		<key>Match</key>
-		<string>London Double Header</string>
-		<key>Start time</key>
-		<string>3:15pm</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2015-11-28T15:15:00Z</date>
-	</dict>
-	<key>Game 7 - 9</key>
-	<dict>
-		<key>Match</key>
-		<string>The Varsity Match</string>
-		<key>Start time</key>
-		<string>2:30pm</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2015-12-10T14:30:00Z</date>
-	</dict>
-	<key>Game 7 - 10</key>
-	<dict>
-		<key>Match</key>
-		<string>Harlequins v Gloucester Rugby</string>
-		<key>Start time</key>
-		<string>4:30pm</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2015-12-27T16:30:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>6 Nations England v Ireland</string>
-		<key>Start time</key>
-		<string>4:50 pm</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2016-02-27T16:50:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>6 Nations England Women v Ireland Women</string>
-		<key>Start time</key>
-		<string>TBC</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2016-02-27T13:50:00Z</date>
-	</dict>
 	<key>Game 7 - 10 - 2 - 2 - 2</key>
 	<dict>
 		<key>Match</key>
@@ -111,6 +45,61 @@
 		<string>30000</string>
 		<key>Date</key>
 		<date>2016-04-30T14:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>RFU Cup Finals and National U20s Final</string>
+		<key>Start time</key>
+		<string>11:00am</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-05-07T15:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 3</key>
+	<dict>
+		<key>Match</key>
+		<string>London Sevens</string>
+		<key>Start time</key>
+		<string>9:30am</string>
+		<key>Attendance</key>
+		<string>80000</string>
+		<key>Date</key>
+		<date>2016-05-21T14:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 4</key>
+	<dict>
+		<key>Match</key>
+		<string>London Sevens</string>
+		<key>Start time</key>
+		<string>9:30am</string>
+		<key>Attendance</key>
+		<string>80000</string>
+		<key>Date</key>
+		<date>2016-05-22T14:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5</key>
+	<dict>
+		<key>Match</key>
+		<string>Premiership Rugby Final</string>
+		<key>Start time</key>
+		<string>3:00pm</string>
+		<key>Attendance</key>
+		<string>80000</string>
+		<key>Date</key>
+		<date>2016-05-28T14:00:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>Old Mutual Wealth Cup</string>
+		<key>Start time</key>
+		<string>10:00am</string>
+		<key>Attendance</key>
+		<string>80000</string>
+		<key>Date</key>
+		<date>2016-05-29T14:00:00Z</date>
 	</dict>
 </dict>
 </plist>
