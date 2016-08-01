@@ -2,83 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Game 7 - 10 - 2 - 2 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>6 Nations England v Wales</string>
-		<key>Start time</key>
-		<string>4:00pm</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2016-03-12T16:00:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>Schools&apos; Cup</string>
-		<key>Start time</key>
-		<string>11:00am</string>
-		<key>Attendance</key>
-		<string>30000</string>
-		<key>Date</key>
-		<date>2016-03-16T15:00:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>Students Rugby Day</string>
-		<key>Start time</key>
-		<string>tbd</string>
-		<key>Attendance</key>
-		<string>30000</string>
-		<key>Date</key>
-		<date>2016-03-23T16:00:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>Army vs Navy Babcock Trophy</string>
-		<key>Start time</key>
-		<string>3:00pm</string>
-		<key>Attendance</key>
-		<string>30000</string>
-		<key>Date</key>
-		<date>2016-04-30T14:00:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>RFU Cup Finals and National U20s Final</string>
-		<key>Start time</key>
-		<string>11:00am</string>
-		<key>Attendance</key>
-		<string>30000</string>
-		<key>Date</key>
-		<date>2016-05-07T15:00:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 3</key>
-	<dict>
-		<key>Match</key>
-		<string>London Sevens</string>
-		<key>Start time</key>
-		<string>9:30am</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2016-05-21T14:00:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 4</key>
-	<dict>
-		<key>Match</key>
-		<string>London Sevens</string>
-		<key>Start time</key>
-		<string>9:30am</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2016-05-22T14:00:00Z</date>
-	</dict>
 	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5</key>
 	<dict>
 		<key>Match</key>
@@ -111,6 +34,72 @@
 		<string>65000</string>
 		<key>Date</key>
 		<date>2016-09-03T13:30:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2 - 2 - 2</key>
+	<dict>
+		<key>Match</key>
+		<string>The Rugby Championship</string>
+		<key>Start time</key>
+		<string>7:30pm</string>
+		<key>Attendance</key>
+		<string>65000</string>
+		<key>Date</key>
+		<date>2016-10-08T18:30:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2 - 2 - 3</key>
+	<dict>
+		<key>Match</key>
+		<string>OMWS - England v Fiji</string>
+		<key>Start time</key>
+		<string>2:30pm</string>
+		<key>Attendance</key>
+		<string>65000</string>
+		<key>Date</key>
+		<date>2016-11-19T16:30:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2 - 2 - 4</key>
+	<dict>
+		<key>Match</key>
+		<string>OMWS - England v South Africa</string>
+		<key>Start time</key>
+		<string>2:30pm</string>
+		<key>Attendance</key>
+		<string>65000</string>
+		<key>Date</key>
+		<date>2016-11-12T16:30:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2 - 2 - 5</key>
+	<dict>
+		<key>Match</key>
+		<string>OMWS - England v Argentina</string>
+		<key>Start time</key>
+		<string>2:30pm</string>
+		<key>Attendance</key>
+		<string>65000</string>
+		<key>Date</key>
+		<date>2016-11-26T16:30:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2 - 2 - 6</key>
+	<dict>
+		<key>Match</key>
+		<string>OMWS - England v Australia</string>
+		<key>Start time</key>
+		<string>2:30pm</string>
+		<key>Attendance</key>
+		<string>65000</string>
+		<key>Date</key>
+		<date>2016-12-03T16:30:00Z</date>
+	</dict>
+	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2 - 2 - 7</key>
+	<dict>
+		<key>Match</key>
+		<string>The Varsity Match</string>
+		<key>Start time</key>
+		<string>11:30pm</string>
+		<key>Attendance</key>
+		<string>30000</string>
+		<key>Date</key>
+		<date>2016-09-08T16:30:00Z</date>
 	</dict>
 </dict>
 </plist>
