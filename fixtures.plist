@@ -29,7 +29,7 @@
 		<key>Match</key>
 		<string>London Double Header</string>
 		<key>Start time</key>
-		<string>2:30pm</string>
+		<string>2:00pm</string>
 		<key>Attendance</key>
 		<string>65000</string>
 		<key>Date</key>
@@ -99,7 +99,7 @@
 		<key>Attendance</key>
 		<string>30000</string>
 		<key>Date</key>
-		<date>2016-09-08T16:30:00Z</date>
+		<date>2016-12-08T17:30:00Z</date>
 	</dict>
 </dict>
 </plist>
