@@ -2,28 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5</key>
-	<dict>
-		<key>Match</key>
-		<string>Premiership Rugby Final</string>
-		<key>Start time</key>
-		<string>3:00pm</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2016-05-28T14:00:00Z</date>
-	</dict>
-	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2</key>
-	<dict>
-		<key>Match</key>
-		<string>Old Mutual Wealth Cup</string>
-		<key>Start time</key>
-		<string>10:00am</string>
-		<key>Attendance</key>
-		<string>80000</string>
-		<key>Date</key>
-		<date>2016-05-29T14:00:00Z</date>
-	</dict>
 	<key>Game 7 - 10 - 2 - 2 - 2 - 2 - 2 - 2 - 5 - 2 - 2</key>
 	<dict>
 		<key>Match</key>
